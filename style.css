@@ -59,5 +59,8 @@ footer p a {
     section {
         width: 80%;
     }
+    body {
+        width: 100%;
+    }
 
 }
