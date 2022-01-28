@@ -8,6 +8,7 @@ body {
     background-color: white;
     background-image: url('imagens/pexels-breakingpic-3305.jpg');
     background-size: cover;
+    background-position: center center;
 }
 header h1 {
     text-align: center;
